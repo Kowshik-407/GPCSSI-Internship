@@ -1,0 +1,38 @@
+Day 15 - Cyber Security Internship
+=======================================
+
+
+
+06 July 2021
+
+Morning Session - 9:00am to 11:00am
+========================================
+
+Remote Access to Computer Using Whatsapp (Python)
+Speaker - Mr. Mahesh Rakheja
+
+This Class has been rescheduled and today's class will be
+
+Capture The Flag (CTF - II)
+Speaker - Mr. Rakshit Tandon and Mr. Mahir Gupta
+
+Hacking Brawl - It is the website to kickstart CyberSecurity Camp 
+Kickstart Link --->
+
+
+Tools - 
+
+To check whether the website is legit or not --> https://sectigostore.com/blog/how-to-tell-if-a-website-is-legit-in-10-easy-steps/
+
+Google transparency report is the best tool to check whether the website is good or not
+---> https://transparencyreport.google.com/safe-browsing/search
+
+
+Evening Session - 4:00pm to 5:00pm
+===================================
+
+Digital Forensics Tools, Technologies and Career Options
+Mr. Sashi Dhar
+
+
+Check this tool Its important ---> https://www.cfreds.nist.gov/

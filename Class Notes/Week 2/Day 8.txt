@@ -1,0 +1,66 @@
+Day 8 - CyberSecurity Internship
+
+
+25 Jun 2021
+
+
+Morning Session - 9:00am to 11:00am
+=======================================
+
+
+Assignment Questions 
+1. Investigative approach on Ransomware attacks (Tools and techniques) can anything be done with AI-ML to prevent or investigate Ransomware, Crypto Currency
+
+Financial Frauds
+Speaker - Mr. Rakshit Tondon
+
+Readings
+- https://searchsecurity.techtarget.com/feature/Ransomware-attack-case-study-Recovery-can-be-painful
+- https://www.gcstechnologies.com/what-you-should-do-when-ransomware-attacks
+
+
+Tools - 
+
+1. certin - https://cert-in.org.in/
+2. CyberSafe - It is used to check whether the mobile number is from fraud or not - https://cybersafe.gov.in/Cybersafe/index.html
+
+Assignment for next week - 
+Ransomware 
+--------------------
+	- Case Studies - of investigating tools / techniques - investigate and recover Ransomware
+	- HAAS Hacking as a Service.... - Dark Web
+
+
+Section 84 in The Indian Penal Code. 84. Act of a person of unsound mind. —Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.
+
+
+Sec 84 of IT Act - Trying to commit any cyber offence - You fail still you will be given half punishment.
+
+Case studies 
+1. Amit Shah's landline 'spoofed' to run scam, two arrested - Call Spoofing
+
+
+
+Evening Session - 4:00pm to 5:00pm
+=====================================
+
+How to be an entrepreneur in the Cyber Space 
+Speaker - Mr. Aditya Narang
+
+insupport@safehousetech.com
+Code : GPCSSI2021
+
+
+
+
+Q&A Session - 6:30pm to 7:30pm
+==================================
+
+Speaker - Mr. Rakshit Tondon
+
+Note::> 
+1. Don't open any netbankings and any ids in cybercafe. You probably use your mobile or be patient or else, if you are in emergency move to cybercafe and check all the USB devices connected to cpu. Note, no devices should connect backside of CPU
+
+2. Jews Jacking is a technique used in airports to charge your mobile phones with their chargers. Note down, you shouldn't need to charge your mobile phones with their hacker chargers. You should always charge with only company charger, no need to use with anyone charger.
+
+3. Note before copy and paste you should always check the copyrights, Therefore, before copying and pasting you should always take his name and you should represent his name that this is by him and his credit, This is one of the most important code of ethic 

@@ -1,0 +1,114 @@
+Day 5 - Cyber Security Internship
+==================================
+
+To upload the assignments --> https://st1.zoom.us/web_client/jnz0sg/html/externalLinkPage.html?ref=https://docs.google.com/forms/d/e/1FAIpQLSdjva5L6ZEYYb7PjwZ8wYDBP32c6YoIfr4PFE1CD8--br6Wyw/viewform?usp=sf_link
+
+To upload the queries --> https://docs.google.com/forms/d/e/1FAIpQLSfFySpHq4LOMaMeIHwUvZ1n9XXwXgYaJGRejBbuZ9reXgPdbA/viewform
+
+22 Jun 2021
+
+Morning Session - 9:00am to 11:00am
+=======================================
+Email Crime
+Speaker - Mr. Rakshit Tondon
+
+Online Email Tracer - Cyber Forensics - India ---> http://www.cyberforensics.in/
+
+Header Analyis in any email crime very important
+Electronic Evidence - Header
+
+Note - Doing Header analysis --> Web Mail - source IP to ESP Email Service Provider
+Cyber cell write a notice to ESP with Message ID
+Data and Time Stamp - www.timezoneconverter.com
+
+Make a research - And tell how many third party email clients are popular
+
+Tool 
+=======
+Read Notify - It is used to track the email that you have sent whether, he opened the email or not, and the time of reading done by the viewer on my mail. ----> readnotify.com
+
+Get Notify - It is similar to read notify to track the email --> getnotify.com
+
+Features - 								Benefits -
+1. Free Email Tracking 						1. Can be used for personal Emails
+2. Track Links in your Emails					2. Can be used for Email Marketing
+3. Track how long your email was read				3. Works with any email client/provider
+4. Get Recipient's IP address, location, etc.,			4. Tracks multiple email reads
+5. Get Recipient's Browser and OS Name				5. You can use your own tracking image
+6. Add .getnotify.com after email address			6. It is Absolutely FREE
+
+
+Tracking can be done to the cyber criminal by victim by following this procedure - 
+Victim - Created a free read notify account 
+Replied to the kidnapper from the victim mail
+Similarly like this ---> kidnapper@gmail.com.readnotify.com
+Send the mail
+You can get all the details in readnotify.com website on your account.
+You can find IP address, date, time, mobile or laptop device using, device name.
+
+NOTE ::> As an user you cannot go beyond the IP address 
+IT ACT of INDIA - Authorised LEA (Law Enforcement Agency) has the power to decrypt the traffic
+IP Address 
+Mobile Number 
+Complaint is filed --> LEA will investigate --> Send the notice --> Rely --> Suspect is arrested.
+
+NOTE THIS POINT ---> NEVER NEVER AND EVER SHARE INTERNET
+
+You can remove the bots in your device either in mobile or in laptop - These are provided by the INDIAN GOVT for free
+Goto this website ---> csk.gov.in/security-tools.html
+
+You can find the free bot removal tool 	- Quick Heal
+You can find the free antivirus software- eScan Antivirus
+
+Before Accessing the TOR Browser - You must do this precautions
+1. Laptop - Put Black Label with Tape on your WEB CAMERA. Therefore, the hackers cannot view you
+2. Plug Rubber to the Microphone. Therefore, the hackers cannot record your voice 
+
+Scan Email demand Bitcoin, threaten blackmail FTC
+Cryptocurrency blackmail scam alert FTC
+
+Based on the timing of this spike, you may get one of these messages because your email was exposed in a recent data breach. The scammers may say they have access to your computer or webcam, or installed clever software to defeat you. But they may really know one of your old - or recent - passwords, and they include it in the message to prove it. When you see tha, you know it's time to update your password on that account, and consider updating other passwords, too.
+
+SPYWARE in the market inserts in your phones and hide apps. 
+Remotely if some send APK on your phone
+In temptation - recharge --> Porn Applications will have 100% SpyWare
+
+One more important tip - Remove password in playstore
+1. Every time you install a app - you need my password... Password - COMPULSORY
+2. Before giving your mobile to REPAIR/MAINTAINANCE --> Wipe your phone and do Factory reset your data
+3. Check the background apps running. Check all the permission to the app. 
+GHOST - System Access, or ROOT access - It is dangerous
+Kill a Software and do the factory Reset
+4. Protect your CLOUD - Google Cloud for Android and ICloud for Apple.
+Have a 2FA - MULTI FACTOR AUTHENTICATION
+Our main Digital Identity - It is Email ID
+
+Be secure from this
+1. SIM SWAPPING DOT -Once your change for a SIM Card (Same Number) ie., SIM PORTABILITY. SMS Service will not work for 24hr - RULE DOT
+2. ESIM EMBEDDED SIM/PROGRAMMABLE SIM 
+CASE STUDY - 
+DATA - Callers getting data - Last recharge/when purcahse the sim/mother name/Address/DOB/
+For advanced mobile phones - Iphone 11/12 or Samsung top-end phones consist ESIM, One slot for SIMCARD.
+Airtel/JIO COVID - ESIM - Sitting at home... SEND a SMS from your registered number we will activate your esim. Note ::> Never share the details to anyone
+
+NEVER NEVER SHARE PERSONAL IMAGES, INTERNET NEVER FORGETS.
+Think Before You Post - TBYP
+Stop Think Post - STP
+
+
+Before calling to a tollfree number check the mobile number in truecaller - 
+
+PAYTM Customer Care Number - 9348xxxx --> Check this mobile number in truecaller and suspect whether the number is fraud or not.
+
+
+Tools - 
+
+https://mxtoolbox.com/ --> Used to analyse the email header
+https://www.consumer.ftc.gov/taxonomy/term/873 - Federal Trade Commision of reading Phishing Scams
+
+
+4:00pm to 5:00pm --> Threat Intelligence
+========================================
+Speaker - Mr. Deep Shankar Yadav
+
+See the images to understand about threat intelligence

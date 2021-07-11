@@ -1,0 +1,206 @@
+Day 4 - CyberSecurity Internship
+======================================
+
+Rakshit Tandon Email id - info@rakshittandon.com, cyberexpert10@gmail.com, rakshittandon@yahoo.co.in
+
+Assignment - 
+
+1. IT Rules - Understand Small PPT on the new IT and their implications
+2. Find similar cases on social media crimes
+	a. Cases Reference - From news media
+	b. How to do safe on social media
+3. Study the impact of Social Media on Mental health
+
+
+21 Jun 2021
+
+Morning Session - 9:00am to 11:00pm
+======================================
+Email Crime 
+
+Speaker - Mr. Rakshit Tondon
+
+
+Note::> Before entering into email. Please check the email first. You need to maintain habit where you should check the email not the id or subject. Email Crimes are to be more secure. 
+--> Nowhere, to go through any mail with the domain as gmail, or zmr7.24sjkfd, these type of domains are very dangerous. 
+The domains from any companies looks like this --> no-reply@apple.in, no-reply@vidyanikethan.asia
+
+
+Protonmail - Anonymous --> https://protonmail.com/
+Secmail - anonymous --> https://www.secmail.com/content/en/108/202189/Home.html
+Disposal Mail - anonymous --> https://temp-mail.org/en/
+
+Threatening / Defaming / Ransom Mail - Kidnapping
+
+Email - To start / initiate investigation - Email Header, Raw Source, Message Source
+
+Understanding and analysing the header is must important - 
+Important points to know ::> 
+1. Recieved from IP - 
+2. IP Address
+3. Header - Show Original
+4. Date and time
+
+To complaint this mail. 
+You should move to header - show original - copy/paste
+Take a printout - Goto the Cyber cell
+
+Emails - 
+
+1. Spoofing - Email Spoofing
+2. Phone Spoofing
+3. SMS Spoofing - Easily Traceable
+
+Know the difference between BCC and CC
+
+CC - will remain every mails you have sent - ex::> 50 emails to sent the message at once. If you sent through Cc everyone will have a chance to see for which emails you are sending. 
+Bcc - It will not show for you have send. It is for themselves.
+
+If the email is from JOB recruitment
+---> Please check the vacancies in the company, before checking the emails.
+There message is very attractive like, you are selected in accenture, HCL, infosys.... So, before checking please confirm that the message is spam or not
+
+
+Man in the middle attack - 
+
+ONGC email fraud - 197 crore loss --> real - patel_dv@ongc.in &&& fake - patel_dv@ognc.in
+Read the article - https://www.expresscomputer.in/news/identity-theft-ongc-falls-prey-to-cyber-fraud-loses-rs-197-crore/
+
+Tools - 
+To check whether the header is scam or not - https://toolbox.googleapps.com/apps/messageheader/
+
+How to use the above link - https://support.google.com/mail/answer/29436?hl=en
+
+Aadhar Card - https://uidai.gov.in/
+NOTE ::> It is important to off the biometric details in aadhar. It is important to do this.
+
+7 Tips to check whether the email is Spam or Not - 
+https://sectigostore.com/blog/how-to-tell-if-an-email-is-fake-tips-to-spot-a-fake-email/
+
+Tip 1 - 1. Inspect the Email Header Info to Verify Whether the Sender’s Address is Legitimate
+		- Look for Deceptive Domains and Spellings in Email Addresses ---> chase.com &&& cha5e.com
+
+Tip 2 - 2. Watch Out For Uncommon Uses of the Email Bcc Field
+		- So, if you see your email address in the Bcc field instead of in front of “To:” or “Send To:” it’s a good sign that the email is a fake.
+
+Tip 3 - 3. Check Whether Embedded Links Redirect to Unexpected Websites
+		- For example, you get an email that looks like coming from PayPal. It’s warning you about an unauthorized login attempt and asking you to change the password to protect your account. There is a link given to change your password: https://www.paypal.com/account/passwordChange. You think it’s safe to click as the link looks legit. But when you click on this link, you’ll be redirected to some spammy website that looks legitimate because they use PayPal’s site design, colors, fonts, and logo. Here, the fake website will try to trick you into sharing your login credentials or other confidential details.
+
+https://www.getlinkinfo.com/ --> Used to check If one of the links you see uses a URL shortened (links that start with tinyurl, bit.ly, goo.gl, is.gd, t.co, etc.),
+
+
+Tip 4 - 4. Pay Attention: Don’t Ignore Unusual Spelling and Grammatical Errors
+		- If an email contains many grammatical, spelling, or punctuation errors, it’s a red flag. Legit companies follow strict email etiquette and editorial standards.
+
+Tip 5 - 5. Ask Yourself Whether the Language Seems Fishy, Pushy, or Urgent
+		- For example, they might send you emails on the following subjects:
+- An unbelievable deal/discount on the product
+- A high-priced lottery winning
+- Offering a job
+- Unauthorized access of your account
+- Data-breach incident of your credentials
+- Free credit reports
+- A (fake) purchase from your account (see Amazon’s the screenshot in the previous point)
+- A fundraising campaign for poor/people suffering from rare diseases/victims of natural calamities
+
+Tip 6 - 6. Ask Yourself if Email Attachments Are Unsolicited or Unexpected
+		- A good rule of thumb when it comes to email attachments is to ask yourself: Did I request this information? Frequently, cybercriminals will send emails with phony attachments to get you to inadvertently download their malicious executables. These attachments could come in many forms, including:
+
+- Invoice documents
+- Receipts for payment
+- Photos or other graphics
+- Pricing sheets
+- Spreadsheets
+
+Tip 7 - 7. Be Vigilant (Even If the Email is From a Legit Email Address)
+		- for example, the email may ask you to:
+- Immediately transfer money to help them.
+- Open a website to get the benefit of an unbelievable (unrealistic) deal/discount.
+- Donate money to some unknown organization.
+- Reply with your phone number, some files or personal information.
+- Download a software, attachment, or a media file.
+
+
+Analyzing an Email Header - 
+
+1. “Received:” lines. They show the address of the computer that received the email, as well as other computers’ addresses that an email may have been transferred through. Unlike other email header elements, “Received:” lines can’t be forged.
+
+2. MIME-version. Multipurpose Internet Mail Extensions are an Internet standard that extends the format of email by supporting text and non-text attachments like audio, video, images, message bodies with multiple parts, etc.
+
+3. Message-ID. The message-ID is a globally unique identifier used in email. Message-IDs have a specific format that is generated for a specific email address and message, thus, no two messages have the same Message-ID.
+
+4. DKIM Signatures. DomainKeys Identified Mail confirms the sender’s authenticity by connecting the domain name with the email. DKIM is the technology that helps to reduce spam and phishing and allows companies to vouch for their email messages.
+
+HOW TO ANALYZE AN EMAIL HEADER
+
+CAUTION:
+It is important to know that when reading an email header every line can be forged, so only the Received: lines that are created by your service or computer should be completely trusted.
+
+From
+This displays who the message is from, however, this can be easily forged and can be the least reliable.
+
+Subject
+This is what the sender placed as a topic of the email content.
+
+Date
+This shows the date and time the email message was composed.
+
+To
+This shows to whom the message was addressed, but may not contain the recipient's address.
+
+Return-Path
+The email address for return mail. This is the same as "Reply-To:".
+
+Envelope-To
+This header shows that this email was delivered to the mailbox of a subscriber whose email address is user@example.com.
+
+Delivery Date
+This shows the date and time at which the email was received by your (mt) service or email client.
+
+Received
+The received is the most important part of the email header and is usually the most reliable. They form a list of all the servers/computers through which the message traveled in order to reach you.
+The received lines are best read from bottom to top. That is, the first "Received:" line is your own system or mail server. The last "Received:" line is where the mail originated. Each mail system has their own style of "Received:" line. A "Received:" line typically identifies the machine that received the mail and the machine from which the mail was received.
+
+Dkim-Signature & Domainkey-Signature
+These are related to domain keys which are currently not supported by (mt) Media Temple services. You can learn more about these by visiting: http://en.wikipedia.org/wiki/DomainKeys.
+
+Message-id
+A unique string assigned by the mail system when the message is first created. These can easily be forged.
+
+Mime-Version
+Multipurpose Internet Mail Extensions (MIME) is an Internet standard that extends the format of email. Please see http://en.wikipedia.org/wiki/MIME for more details.
+
+Content-Type
+Generally, this will tell you the format of the message, such as html or plaintext.
+
+X-Spam-Status
+Displays a spam score created by your service or mail client.
+
+X-Spam-Level
+Displays a spam score usually created by your service or mail client.
+
+Message Body
+This is the actual content of the email itself, written by the sender.
+
+FINDING THE ORIGINAL SENDER
+The easiest way for finding the original sender is by looking for the X-Originating-IP header. This header is important since it tells you the IP address of the computer that had sent the email. If you cannot find the X-Originating-IP header, then you will have to sift through the Received headers to find the sender's IP address. In the example above, the originating IP Address is 10.140.188.3.
+
+Once the email sender's IP address is found, you can search for it at http://www.arin.net/. You should now be given results letting you know to which ISP (Internet Service Provider) or webhost the IP address belongs. Now, if you are tracking a spam email, you can send a complaint to the owner of the originating IP address. Be sure to include all the headers of the email when filing a complaint.
+
+Message Header Analyser - https://mha.azurewebsites.net/
+
+
+Evening Session - 4:00pm to 5:00pm 
+======================================
+
+Dark Web 
+Speaker - Mr. Amit Dubey
+
+Quote - I would love to change the world, but they won't give me the source code.
+
+Check the images 
+
+APT attacks and threats - 
+
+APT Attacks - What is an APT. An advanced persistent threat (APT) is a broad term used to describe an attack campaign in which an intruder, or team of intruders, establishes an illicit, long-term presence on a network in order to mine highly sensitive data.
+For the most part, threat actors that use APT tactics aim for valuable information or systems, including: Databases of personal information – Such as financial details, health records and other data that can be used in a range of crime

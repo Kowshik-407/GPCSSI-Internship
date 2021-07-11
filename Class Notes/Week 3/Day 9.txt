@@ -1,0 +1,22 @@
+Day 9 - CyberSecurity Internship
+===================================
+
+
+28 Jun 2021
+
+
+Morning Session - 9:00am to 11:00am
+======================================
+
+Website Hacking
+Speaker - Mr. Rakshit Tandon
+
+Tools - Google Dorks --> https://www.exploit-db.com/google-hacking-database
+How to use Google Dorks --> https://www.hackingloops.com/google-dorks/ - Important to know how the hackers works on.
+
+
+Evening Session - 4:00pm to 5:00pm
+=====================================
+Coming up - A Smart and Intelligent Life 
+
+Speaker - Mr. Dinesh O Bareja

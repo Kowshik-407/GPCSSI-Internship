@@ -1,0 +1,59 @@
+Day 1
+============================
+
+
+Date ::> 16 Jun 2021
+
+
+Important Concepts to Learn - 
+
+1. Computer Networking
+2. Operating Systems
+
+
+Abbrevations - 
+
+csk - Cyber Swachhta Kendra
+nciipc - National Critical Information Infrastructure Protection Centre
+ceir - Central Equipment Identity Register
+bprd - Bureau of Police Research and Development
+
+
+Important Links from Govt - 
+
+https://cybercrime.gov.in/
+https://www.csk.gov.in/
+https://haveibeenpwned.com/
+https://nciipc.gov.in/
+https://consumerhelpline.gov.in/
+https://ceir.gov.in/Home/index.jsp
+https://bprd.nic.in/
+
+
+Usage of CEIR - You can Know Your Mobile. You can find your lost mobile phone
+consumerhelpline - It is used to complain on the online products. 
+csk - Botnet Cleaning and Malware Analysis Centre
+cybercrime portal - Filing a Complaint on National Cyber Crime Reporting Portal
+
+
+
+Guidelines and Digital Media Ethics - 
+
+https://www.meity.gov.in/writereaddata/files/Intermediary_Guidelines_and_Digital_Media_Ethics_Code_Rules-2021.pdf
+
+
+
+Today Notes - 
+www.cybercrime.gov.in
+Resources- Cyber Safety / Frauds
+www.csk.gov.in
+https://nciipc.gov.in/
+https://ceir.gov.in/Home/index.jsp
+2 children kidnapped
+UP STF – 
+VOIP No.. 
+Call Forwarding
+Fake SIM Cards
+VPN- VOIP Voice over internet protocol
+CRITICAL THINKING
+Safehousetech.om

@@ -1,0 +1,43 @@
+Day 17 - CyberSecurity Internship
+===================================
+
+
+
+
+
+08 July 2021
+
+
+
+Morning Session - 9:00am to 10:00am
+====================================
+
+Being a cyber expert with full of ethics 
+Speaker - Mr. Haribhajan Singh
+
+This session is made full of nostalgic on both sides.
+
+
+
+Morning Session - 10:00am to 11:00am
+======================================
+
+Ransomware - KPMG
+Speaker - Mr. Jagvinder S Brar
+
+
+
+
+Evening Session - 4:00pm to 5:00pm
+========================================
+
+Network Forensics
+Speaker - Mr. Nipun Jaswal
+
+
+Disassembler, Debugger
+
+.exe file is always of binary format
+
+Bottom       --> next one --> Top one
+Machine Lang --> C Lang ---> and many so on programming lang

@@ -1,0 +1,84 @@
+Day 11 - CyberSecurity Internship
+==========================================
+
+
+
+30 Jun 2021
+
+
+Morning Session - 9:00am to 11:00am
+====================================
+Online Human Trafficking
+Speaker - Mr. Rakshit Tandon
+
+
+
+grifeye project - https://www.griffeye.com/
+traffickcam - It is a website used your location with camerashot.
+Microsoft PhotoDNA - https://www.microsoft.com/en-us/photodna --> Used to stop online human trafficking.
+dehashed - https://www.dehashed.com/ --> Creation of advanced password protection
+
+Online Child Sexual Abuse and Exploitation Prevention (OCSAE) 
+CP / CSAM - 100% Survelliance - Interpol - Send the lead to CBI
+Searching, Browsing, Downloading, Viewing such CSAM - Is a Crime under 67B - 5Years 10 Lakhs 
+Non bailable + POCSO
+
+Steganography is the technique of hiding secret data within an ordinary, non-secret, file or message in order to avoid detection; the secret data is then extracted at its destination. ... The word steganography is derived from the Greek words steganos (meaning hidden or covered) and the Greek root graph (meaning to write).
+
+Steganography detection tool --> https://stylesuxx.github.io/steganography/
+
+Biggest data crimes in India right now - DataBreach and RansomWare
+
+
+Evening Session - 4:00pm to 5:00pm
+=======================================
+Think like a hacker / Red teaming
+Speaker - Dr. Oopps
+
+3D phishing --> https://www.youtube.com/watch?v=fWw9Pj94Sa0
+
+owasp book - https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf
+
+owasp - https://owasp.org/
+
+Learning Materials Free
+
+Web Application Pentesting Complete Training
+https://www.youtube.com/watch?v=N9UaIdizEIU&list=PLWPirh4EWFpESKWJmrgQwmsnTrL_K93Wi
+https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL
+
+Web Application Best Book
+http://index-of.es/EBooks/11_TheWeb%20Application%20Hackers%20Handbook.pdf
+
+Ethical Hacking with Kali
+https://www.youtube.com/watch?v=ElWo5fd4rIU&list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw
+
+Security Bug Writeup 
+https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+
+Network Penetration Testing for Beginners
+https://www.youtube.com/watch?v=3Kq1MIfTWCE
+
+Bug Bounty Hunting Methology by BugCrowd
+https://github.com/bugcrowd/bugcrowd_university
+
+Hackerone 101 Complete Training
+https://www.hacker101.com/videos
+
+Please feel free to connect - 
+
+mrooppss@hotmail.com
+https://linkedin.com/in/mrooppss
+https://www.linkedin.com/company/mrooppssgroup/
+https://twitter.com/mrooppss
+https://facebook.com/mrooppss/
+https://www.instagram.com/mrooppss/
+
+
+
+Evening Session - 6:30pm to 7:30pm 
+=======================================
+White side of Dark Web though forensic intelligence 
+Speaker - Mr. Deepak Kumar
+
+Digital Forensics Lab - https://d3pakblog.wordpress.com/

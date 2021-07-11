@@ -1,0 +1,79 @@
+Day 13 - CyberCrime Internship 
+=================================
+
+
+02 July 2021
+
+I am so previliged to be a part of a GCPSSI Cyber Intern 2021
+
+Morning Session - 9:00am to 10:00am
+=====================================
+
+Cyber Crime investigation and intelligence operation
+Speaker - Mr. Harshit Gupta
+
+
+HUMINT - Human Intelligence 
+SIGINT - Signal Intelligence
+
+IMINT  - Image Intelligence
+Imagery Intelligence (IMINT) includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, infrared sensors, lasers, and electro-optics.
+
+Imagery intelligence (IMINT) is an intelligence gathering discipline which collects information via satellite and aerial photography. As a means of collecting intelligence, IMINT is a subset of intelligence collection management, which, in turn, is a subset of intelligence cycle management.
+
+OSINT  - Open Source Intelligence
+-> Information is available in the public domain
+-> Collected from open sources like newspaper/blogs/posts/social media
+Ex ::> Snapchat during Kissan Andolan
+Case study - Cryptocurrency fraud
+
+
+Tools - 
+1. map.snapchat.com - Used to check the activity of snapchat users.
+2. blockchain.com - Paste the entire wallet address and search for it. --> To check for it move to explorer
+3. binance.com - Used to exchange the cryptocurrency bitcoins to cash
+
+
+
+
+
+
+
+
+Morning Session - 10:00am to 11:00am
+=====================================
+
+Bug Bounty
+Speaker - Mr. Anand Prakash
+
+
+https://www.appsecure.security/ --> Mr. Anand Prakash service
+Mr. Anand Prakash - An advanced cyberintern
+
+
+
+
+
+
+
+
+
+Evening Session - 4:00pm to 5:00pm
+========================================
+
+Cyber Space
+Speaker - Mr. Liad Herman
+
+SafeHouse Tech has extended the offer of 75% off till 9th July. Visit the URL shop.safehousetech.com and apply code GPCSSI2021.
+https://shop.safehousetech.com
+
+
+
+Q&A Session - 6:30pm to 7:00pm
+===============================
+
+Speaker - Rakshit Tandon
+
+If you have been cheated by someone in ransomware case - Don't regret, you are not a stupid that you are cheated, but you are a victim. You have a right to support you and no need to feel guilty and ashamed of yourself. Note, it important you are a victim and you should file a complaint. 
+
+gfsu.edu.in ---> Important Natioal Forensic Sciences University - Good for cyber security

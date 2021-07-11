@@ -1,0 +1,87 @@
+Detailed Complete Sessions
+==================================
+
+M - Morning E - Evening
+
+Date						Topics							Speaker
+-----						-------							-------
+
+Week - 1
+==============
+
+15/6/21	- M	*******Opening Ceremony by Rakshit Tandon, KK Shukla, Aditya Narang, Haribhajan Singh, and CyberCell***********
+
+16/6/21 - M	Introduction to the internship and prequisites for cyber security		- 	Mr. Rakshit Tandon
+16/6/21 - E 	Insights and tools under Cyber Security						- 	Mr. Rakshit Tandon
+
+17/6/21	- M	Social Media Crimes - 1 							- 	Mr. Rakshit Tandon
+17/6/21 - E	Fake Email and Hacking of Email/Facebook/Twitter/Instagram with case studies 	- 	Mr. Anil GGM Police
+
+18/6/21 - M 	Social Media Crimes - 2								- 	Mr. Rakshit Tandon
+18/6/21 - E	Relevance of Mobile Safety Application						- 	Mr. Aditya Narang
+
+
+Week - 2
+====================
+
+21/6/21 - M 	Email Crimes - 1								- 	Mr. Rakshit Tandon
+21/6/21 - E 	Dark Web									- 	Mr. Amit Dubey
+
+22/6/21 - M 	Email Crimes - 2								- 	Mr. Rakshit Tandon
+22/6/21 - E	Threat Intelligence								- 	Mr. Deep Shankar Yadav
+
+23/6/21 - M	Mobile Crimes									- 	Mr. Rakshit Tandon
+23/6/21 - M	Endpoint Security, Perimeter Security						- 	Mr. Deep Shankar Yadav
+23/6/21 - E	Building and Operationalizing SOC						- 	Mr. Deep Shankar Yadav
+
+24/6/21 - M	Financial Frauds - 1								- 	Mr. Rakshit Tandon
+24/6/21 - E	Cyber Security Compliance and Sebi Regulations					- 	Mr. Deep Shankar Yadav
+
+25/6/21 - M	Financial Frauds - 2								- 	Mr. Rakshit Tandon
+25/6/21 - E	How to be an entreprenuer in the Cyber Space 					- 	Mr. Aditya Narang
+
+
+Week - 3
+===========
+
+28/6/21 - M 	Website Hacking	- 1								- 	Mr. Rakshit Tandon
+28/6/21 - E	A smart and Intelligent life							- 	Mr. Dinesh O Bareja
+
+29/6/21 - M	Website Hacking - 2								- 	Mr. Rakshit Tandon
+29/6/21 - E	Cloud Security and Internet of Things						- 	Mr. Amit Tiwari
+
+30/6/21 - M	Online Human Trafficking							- 	Mr. Rakshit Tandon
+30/6/21 - E	Think like a hacker / Red teaming						- 	Dr. Oopps
+30/6/21 - E	White Side of Dark Web though forensic intelligence				- 	Mr. Deepak Kumar
+
+01/7/21 - M	Capture The Flag (CTF) - 1							- 	Mr. Mahir Gupta
+01/7/21 - E	GDPR										- 	Mr. Prashant Mali
+
+02/7/21 - M	Cyber Crime Investigation and Intelligence Operation				- 	Mr. Harshit Gupta
+02/7/21 - M	Bug Bounty									- 	Mr. Anand Prakash
+02/7/21 - E	Cyber Space									- 	Mr. Liad Herman
+
+
+Week - 4
+============
+
+05/7/21 - M	Crypto Currency Investigations							- 	Mr. Anupam Tiwari
+05/7/21 - E	Cyber Crime Case Studies							- 	Mr. Shudhir Inspector
+
+06/7/21 - M	CTF - 2										- 	Mr. Mahir Gupta
+06/7/21 - E 	Digital Forensics Tools, Technologies and Career Options			- 	Mr. Sashi Dhar
+
+07/7/21 - M	Remote Access to Computer Using WhatsApp (Python)				- 	Mr. Mahesh Rakheja
+07/7/21 - M	Psychological Implications of Social Media Crimes				- 	Mr. Nirali Bhatia
+07/7/21 - E	Cyber Forensics									- 	Mr. Santhosh Khadsare
+
+08/7/21 - M	Being a cyber expert with full of ethics 					- 	Mr. Haribhajan Singh
+08/7/21 - M	Ransomware - KPMG								- 	Mr. Jagvinder S Brar
+08/7/21 - E	Network Forensics								- 	Mr. Nipun Jaswal
+
+09/7/21 - M	Gurugram Police Surveillance							- 	Mr. Ashot Kumar ACP
+09/7/21 - E	Cyber Law and IT Rules								- 	Mr. Pawan Duggal
+09/7/21 - E	The evolving Cyber-attacks and Threats						- 	Mr. Aditya Narang SafeHouse
+09/7/21 - E	Cyber Crimes in real incidents today						- 	Ms. Pakhuro Kumar HPS 
+
+12/7/21 - M  	***Closing Remarks and Conclusion With Feedback & Achievements by Mr. Rakshit Tandon, Pakhuri Kumar, Commisioner***

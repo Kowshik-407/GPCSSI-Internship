@@ -1,0 +1,128 @@
+
+			*** DO NOT BELIEVE EVERYTHING YOU SEE ONLINE ***
+
+Before accessing and giving details to website check the URL of the website is it correct or not
+
+URL Checking - Is it contain HTTPS and check the website spelling and the website address of hosting .com .org .in ---
+
+While entering into website - Check source, check headlines, check images. --> Investigate source, Check other sources, Be sceptical of photos/posts
+
+What about the images/videos - Do reverse Engineeting ::> Reverse image search and upload the photo
+
+internet live status
+reverse image search - upload image
+
+
+what is data - contacts, messages, photos/media, passwords, login details, app data, documents, location
+
+Digital footprint - myactivity in google --> Tracing of IP, address. Using digital footprint we can find.
+
+What about incognito mode - websites can record our activity
+
+what happens if we don't protect our data? 
+- Data Theft
+- Identity Theft
+- Unauthorised access to accounts
+- Financial Frauds 
+- Extortion
+
+
+These can happen 
+- Phishing - 
+- Vishing - Voice Phishing
+- Smishing - SMS Phishing
+- Social Engineering
+- Malware Attacks - Ransomeware, Keyloggers, Spyware
+
+
+Protect your device - 
+1. Use a password (PIN/Pattern) - minimum of 14 bits. Have a 2 factor authentication
+2. Do not give your devices to unknown people or to known person
+3. Install Anti-virus Software
+4. Beware of free apps and software unless verified
+5. Implement bit erasing before giving away your devices.
+
+
+Being Responsible Online - Being Reasonable, Being Empathetic, Being Respectful
+
+Being Reasonable - 
+Other tools include - 
+
+1. Alt news
+2. Boomlive.in
+3. Press information Bureau (PIB)
+4. Factchecker.in
+5. Smhoaxslayer.com
+6. check4spam.com
+
+
+Being Empathetic - 
+1. Everyone is entitled to express their POV
+2. Our freedom of expression is just as important as others freedom of speech and expression
+3. Laws are applicable both online and offline
+
+Cybercrime and Redressal - 
+
+Impersonated and Fake profiles - 
+1. Is there a difference among the two? Report an impostor account in facebook and Report an impersonation account on insta
+
+CYBERCRIME - According the IT Act
+
+1. Transmission of Obscene content - Section 67 and 43
+2. Transmitting or publishing material containing sexually explicit act - Section 67A
+3. Child Pornography - Section 67B --> Child Sexual Abuse Material
+
+
+Cyber Stalking - For Females
+
+1. Constant calling/texting/reaching out
+2. Repeated harrasment
+2. Trouble despite saying no
+
+CRIMES under IPC - 
+
+1. u/s 499, 500 - Defamation
+2. u/s 506 - Criminal Intimidation
+3. u/s 507 - Intimidation by anonymous communication
+
+Reporting - Local police, helpline, report on platforms
+
+
+
+How do you respond to cybercrime - 
+1. Save the URL of the profile in question/ save the email or any other conversation
+2. Try to save IP address information if your receive any notification
+3. Take a screenshot of the entire PC or mobile screen with the time stamp and save any other relevant evidence also.
+4. Do not delete IDs, messages or any other communications
+
+
+Local Police Station - 
+1. File a complaint at your local police station
+2. Depending on ht nature of the offence, the police may register a FIR
+3. If FIR is registered, you are entitled to a copy of the documnet and you will need to sign it after verifying its contents
+
+
+What can you report to platforms - 
+1. Report a user/account to the platform for objectionable behavior or any behavior that you have a problem with
+2. Report specific posts/comments/other activity to the platform to review
+3. Unfollow/Block a user to stop them from contacting you
+4. Reporting may also help delete objectionable content and accounts
+
+
+
+To file a complaint - 
+
+- Cybercrime Portal - cybercrime.gov.in
+- With the National Commission for Women - ncw.nic.in
+
+
+
+IMPORTANT WEBSITES 
+=====================
+internetlivesats.com
+facebook violation of privacy form
+myactivity.google.com
+live map of cyber attacks - threatmap.checkpoint.com
+cybercrime.gov.in
+haveibeenpwned.com
+npcr.gov.in

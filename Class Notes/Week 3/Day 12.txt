@@ -1,0 +1,68 @@
+Day 12 - CyberSecurity Internship
+====================================
+
+
+
+
+01 July 2021
+
+
+Morning Session - 9:00am to 11:00am
+========================================
+Capture the flag
+Speaker - Mr. Mahir Gupta and Mr. Rakshit Tandon
+
+
+Hack the Box - https://ctf.hackthebox.eu/
+Awesome CTF Platforms - https://github.com/We5ter/Awesome-Platforms/blob/master/CTF-Platforms.md
+Capture the flag - https://ctfd.io/
+
+You can mention your internship certification in resume - As you are from 9th bactch GCPSSI from June 2021 to July 2021
+Intern at 9th Batch Gurugram Police Cyber Security Summer Internship 2021 
+June 2021 - July 2021
+Reference ---> Rakshit Tandon - info@rakshittandon.com
+
+Topics i have attended - 
+1. Email Crimes and Investigations			- By Mr. Rakshit Tandon
+2. Social Media Crimes and Securities			- By Mr. Anil GGM
+3. Financial Frauds and Securities			- By Mr. Rakshit Tandon
+4. Dark Web analysis					- By Mr. Amit Dubey
+5. Online Human Trafficking				- By Mr. Rakshit Tandon
+6. Cloud Security and IOT Security			- By Mr. Amit Tiwari
+7. Threat Intelligence & CyberSecurity Compliance	- By Mr. Deep Shankar Yadav
+8. Ethical Hacking
+9. Crypto Currency Investigations
+10. Cyber Laws
+11. Forensics
+
+hr@hackdevtechnology.com --> Share your resume or CV's to explore projects.
+training@hackershala.com --> To do a project on this saturday and sunday. 
+hackingbrawl.com --> To create your account and move on with studying and analysing the project
+After Login -> Goto Events -> Enter into Gurugram Cyber Heist
+Invite Code -> GPSIHACKERSHALA
+
+To practice and enhance your knowledge 
+Move to Practice --> And check the challenges and be an active participant 
+
+
+
+Evening Sessino - 4:00pm to 5:00pm
+========================================
+GDPR - General Data Protection Regulation
+Speaker - Mr. Prashant Mali
+
+
+The UK GDPR sets out seven key principles:
+Lawfulness, fairness and transparency.
+Purpose limitation.
+Data minimisation.
+Accuracy.
+Storage limitation.
+Integrity and confidentiality (security)
+Accountability.
+
+GDPR is important because it improves the protection of European data subjects' rights and clarifies what companies that process personal data must do to safeguard these rights. All companies and organisations that deal with data relating to EU citizens must comply by the new GDPR.
+
+https://www.academia.edu/ --> Search for academics
+
+If you have any queries respond to this - cyberlawconsulting@gmail.com
